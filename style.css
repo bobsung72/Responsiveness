@@ -1,0 +1,42 @@
+h1 {
+    font-size: 20px;
+    Padding: 20px 20px 20px 20px;
+    background-color: aqua;
+    color: white;
+}
+
+h2 {
+    Padding: 20px 20px 20px 20px;
+    background-color: white;
+    color: aqua;
+    Text: 10px;
+}
+
+navbar {
+    background-color: white;
+    color: grey;
+    list-style: none;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+
+navbar li {
+    display: block;
+    padding: 0 25px 0 25px;
+}
+
+submit {
+    color: white;
+    background-color: aqua;
+    Padding: 20px 20px 20px 20px;
+    float: left;
+}
+
+AboutMe {
+    float: right;
+}
+
+BillMurry {
+    padding: 20px 20px 20px 20px;
+
+}
